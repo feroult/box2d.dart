@@ -1,4 +1,5 @@
-### A Dart 2D physics engine
+### OUTDATED - A Dart 2D physics engine
+## Please use [Forge2D](https://github.com/flame-engine/forge2d/) instead.
 
 [![Build Status](https://travis-ci.org/google/box2d.dart.svg?branch=master)](https://travis-ci.org/google/box2d.dart)
 [![Coverage Status](https://coveralls.io/repos/google/box2d.dart/badge.svg?branch=master)](https://coveralls.io/r/google/box2d.dart)
